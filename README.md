@@ -1,4 +1,4 @@
-# My-365-days-of-Problem-solving in Java
+
 # 365 Days of Problem Solving in Java 🚀
 
 ## Introduction
@@ -30,9 +30,9 @@ _(Updating daily)_
 
 
 ## Let's Connect! 🤝
-- **GitHub**: [your-github](https://github.com/deepika018)
-- **LinkedIn**: [your-linkedin](https://linkedin.com/in/deepika018)
-- [LeetCode](https://leetcode.com/deepika018)
+- **GitHub**: [github](https://github.com/deepika018)
+- **LinkedIn**: [linkedin](https://linkedin.com/in/deepika018)
+- **LeetCode**: [LeetCode](https://leetcode.com/deepika018)
 ---
 
 > "Consistency is the key to mastery!" 🚀🔥
