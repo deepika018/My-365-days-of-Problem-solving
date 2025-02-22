@@ -14,10 +14,10 @@ Welcome to my **365 Days of Problem Solving in Java** challenge! 🎯 This is a 
 ## Daily Progress 📅
 | Day  | Problem | Solution |
 |------|---------|----------|
-| 1    | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](solutions/day1.java) |
-| 2    | [Reverse a String](https://leetcode.com/problems/reverse-string/) | [Solution](solutions/day2.java) |
-| 3    | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution](solutions/day3.java) |
-| ...  | ...     | ...      |
+| 1    | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](Solutions/Day1.java) |
+| 2    | [Reverse a String](https://leetcode.com/problems/reverse-string/) | [Solution](Solutions/Day2.java) |
+| 3    | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution](Solutions/Day3.java) |
+| 4    | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [Solution](Solutions/Day4.java) |
 
 _(Updating daily)_
 
