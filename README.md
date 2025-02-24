@@ -19,6 +19,7 @@ Welcome to my **365 Days of Problem Solving in Java** challenge! 🎯 This is a 
 | 3    | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day3.java) |
 | 4    | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day4.java) |
 | 5    | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day5.java) |
+| 6    | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day6.java) |
 
 _(Updating daily)_
 
