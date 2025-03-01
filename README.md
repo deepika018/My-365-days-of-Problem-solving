@@ -23,6 +23,8 @@ Welcome to my **365 Days of Problem Solving in Java** challenge! 🎯 This is a 
 | 7    | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day7.java) |
 | 8    | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day8.java) |
 | 9    | [Plus One](https://leetcode.com/problems/plus-one/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day9.java) |
+| 10    | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day10.java) |
+| 11    | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day11.java) |
 
 _(Updating daily)_
 
