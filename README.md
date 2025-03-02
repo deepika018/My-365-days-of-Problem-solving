@@ -25,7 +25,7 @@ Welcome to my **365 Days of Problem Solving in Java** challenge! 🎯 This is a 
 | 9    | [Plus One](https://leetcode.com/problems/plus-one/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day9.java) |
 | 10    | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day10.java) |
 | 11    | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day11.java) |
-| 11    | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day12.java) |
+| 12    | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day12.java) |
 
 _(Updating daily)_
 
