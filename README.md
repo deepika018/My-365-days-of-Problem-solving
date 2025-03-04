@@ -26,6 +26,8 @@ Welcome to my **365 Days of Problem Solving in Java** challenge! 🎯 This is a 
 | 10    | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day10.java) |
 | 11    | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day11.java) |
 | 12    | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day12.java) |
+| 13    | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day13.java) |
+| 14    | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day14.java) |
 
 _(Updating daily)_
 
