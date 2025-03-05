@@ -28,6 +28,7 @@ Welcome to my **365 Days of Problem Solving in Java** challenge! 🎯 This is a 
 | 12    | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day12.java) |
 | 13    | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day13.java) |
 | 14    | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day14.java) |
+| 15    | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day15.java) |
 
 _(Updating daily)_
 
