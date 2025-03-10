@@ -33,6 +33,8 @@ Welcome to my **365 Days of Problem Solving in Java** challenge! 🎯 This is a 
 | 17    | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day17.java) |
 | 18    | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day18.java) |
 | 19    | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day19.java) |
+| 20    | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day20.java) |
+
 
 _(Updating daily)_
 
