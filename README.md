@@ -36,6 +36,7 @@ Welcome to my **365 Days of Problem Solving in Java** challenge! 🎯 This is a 
 | 20    | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day20.java) |
 | 21    | [Happy Number](https://leetcode.com/problems/happy-number/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day21.java) |
 | 22    | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day22.java) |
+| 23    | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day23.java) |
 
 
 _(Updating daily)_
