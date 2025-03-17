@@ -39,6 +39,7 @@ Welcome to my **365 Days of Problem Solving in Java** challenge! 🎯 This is a 
 | 23    | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day23.java) |
 | 24    | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day24.java) |
 | 25    | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day25.java) |
+| 26    | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day26.java) |
 
 
 _(Updating daily)_
