@@ -40,6 +40,8 @@ Welcome to my **365 Days of Problem Solving in Java** challenge! 🎯 This is a 
 | 24    | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day24.java) |
 | 25    | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day25.java) |
 | 26    | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day26.java) |
+| 27    | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day27.java) |
+| 28    | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day28.java) |
 
 
 _(Updating daily)_
