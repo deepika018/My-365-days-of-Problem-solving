@@ -43,6 +43,8 @@ Welcome to my **365 Days of Problem Solving in Java** challenge! 🎯 This is a 
 | 27    | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day27.java) |
 | 28    | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day28.java) |
 | 29    | [Binary Search](https://leetcode.com/problems/binary-search/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day29.java) |
+| 30    | [ Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day30.java) |
+
 
 
 _(Updating daily)_
