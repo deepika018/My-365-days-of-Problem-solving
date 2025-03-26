@@ -48,6 +48,8 @@ Welcome to my **365 Days of Problem Solving in Java** challenge! 🎯 This is a 
 | 32    | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day32.java) |
 | 33    | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day33.java) |
 | 34    | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day34.java) |
+| 35    | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day35.java) |
+
 
 
 
