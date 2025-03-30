@@ -50,6 +50,9 @@ Welcome to my **365 Days of Problem Solving in Java** challenge! 🎯 This is a 
 | 34    | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day34.java) |
 | 35    | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day35.java) |
 | 36    | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day36.java) |
+| 37    | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day37.java) |
+| 38    | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day38.java) |
+| 39    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day39.java) |
 
 
 
