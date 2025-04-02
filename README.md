@@ -53,6 +53,8 @@ Welcome to my **365 Days of Problem Solving in Java** challenge! 🎯 This is a 
 | 37    | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day37.java) |
 | 38    | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day38.java) |
 | 39    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day39.java) |
+| 40    | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day40.java) |
+| 41    | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day41.java) |
 
 
 
