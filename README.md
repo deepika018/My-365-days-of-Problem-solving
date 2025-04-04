@@ -55,6 +55,9 @@ Welcome to my **365 Days of Problem Solving in Java** challenge! 🎯 This is a 
 | 39    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day39.java) |
 | 40    | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day40.java) |
 | 41    | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day41.java) |
+| 42    | [Min Stack](https://leetcode.com/problems/min-stack/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day42.java) |
+| 43    | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day43.java) |
+| 44    | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [Solution](365-Days-of-Java-Problem-Solving/Solutions/Day44.java) |
 
 
 
